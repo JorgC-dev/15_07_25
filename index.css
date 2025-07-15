@@ -1,0 +1,32 @@
+body{
+    font-family:'Courier New', Courier, monospace;
+
+}
+nav{
+    background-color: #244A80;
+}
+
+
+.offcanvas-title{
+    font-weight: bold;
+}
+
+.nav-link{
+    margin-bottom: 30px;
+    font-size: large;
+    font-weight: bold;
+}
+
+.navbar-brand {
+    color: white !important;
+}
+
+.navbar-nav .nav-link {
+    color: #244A80 !important; /* Use !important to override Bootstrap's default */
+}
+
+.carrusel{
+    margin: 8% auto;
+width: 600px;
+border-style: double;
+}
